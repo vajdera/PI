@@ -1,0 +1,13 @@
+//PGM (AK)<((AD)) to (L)+2->L w przeciwnym razie (L)+1->L
+ROZKAZ pgm;
+Argumenty 1;
+
+czyt wys wei il;
+wyad wea;
+czyt wys weja ode weak;
+
+JE¯ELI Z TO @ujemna  GDY NIE @dodatnia;
+
+@ujemna il dalej @dodatnia;
+
+@dodatnia wyl wea KONIEC;

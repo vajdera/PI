@@ -1,0 +1,141 @@
+[Opcje]
+Po³¹czenie=1
+Inkrementacja=0
+Logiczne=0
+Arytmetyczne=0
+Stos=0
+RejestrX=0
+RejestrY=0
+Przerwania=0
+Wejœcie=0
+Znaczniki=0
+Adres=5
+Kod=4
+[Rozkazy]
+Liczba=12
+Nazwa1=stp
+Nazwa2=dod
+Nazwa3=ode
+Nazwa4=pob
+Nazwa5=³ad
+Nazwa6=sob
+Nazwa7=som
+Nazwa8=soz
+Nazwa9=mod
+Nazwa10=pgm
+Nazwa11=roz3
+Nazwa12=saw
+[stp]
+Linie=5
+Linia1=// zakoñczenie programu
+Linia2=ROZKAZ STP;
+Linia3=Argumenty 0;
+Linia4=czyt wys wei il;
+Linia5=stop;
+[dod]
+Linie=5
+Linia1=// (Ak)+((Ad))->Ak
+Linia2=ROZKAZ DOD;
+Linia3=czyt wys wei il;
+Linia4=wyad wea;
+Linia5=czyt wys weja dod weak wyl wea;
+[ode]
+Linie=5
+Linia1=// (Ak)-((Ad))->Ak
+Linia2=ROZKAZ ODE;
+Linia3=czyt wys wei il;
+Linia4=wyad wea;
+Linia5=czyt wys weja ode weak wyl wea;
+[pob]
+Linie=5
+Linia1=// ((Ad))->Ak
+Linia2=ROZKAZ POB;
+Linia3=czyt wys wei il;
+Linia4=wyad wea;
+Linia5=czyt wys weja przep weak wyl wea;
+[³ad]
+Linie=5
+Linia1=// (Ak)->(Ad)
+Linia2=ROZKAZ £AD;
+Linia3=czyt wys wei il;
+Linia4=wyad wea wyak wes;
+Linia5=pisz wyl wea;
+[sob]
+Linie=5
+Linia1=// skok bezwarunkowy
+Linia2=ROZKAZ SOB;
+Linia3=Argumenty 1;
+Linia4=czyt wys wei il;
+Linia5=wyad wea wel;
+[som]
+Linie=6
+Linia1=// skok gdy (AK) < 0
+Linia2=ROZKAZ SOM;
+Linia3=czyt wys wei il;
+Linia4=JE¯ELI Z TO @ujemne GDY NIE @dodatnie;
+Linia5=@ujemne wyad wea wel KONIEC;
+Linia6=@dodatnie wyl wea;
+[soz]
+Linie=6
+Linia1=// skok gdy (AK) = 0
+Linia2=ROZKAZ SOZ;
+Linia3=czyt wys wei il;
+Linia4=JE¯ELI zak TO @zero GDY NIE @niezero;
+Linia5=@zero wyad wea wel KONIEC;
+Linia6=@niezero wyl wea;
+[mod]
+Linie=17
+Linia1=//|(AK)|->(2)
+Linia2=ROZKAZ mod;
+Linia3=Argumenty 0;
+Linia4=czyt wys wei il;
+Linia5=JE¯ELI Z TO @ujemna  GDY NIE @dodatnia;
+Linia6=
+Linia7=@ujemna wyak wes weja ode weak;
+Linia8=wys weja ode weak dalej @dodatnia ;
+Linia9=
+Linia10=@dodatnia wyak wes weja ode weak;
+Linia11=wyak sa wel;
+Linia12=il;
+Linia13=il;
+Linia14=wyl wea;
+Linia15=pisz;
+Linia16=
+Linia17=
+[pgm]
+Linie=14
+Linia1=//PGM (AK)<((AD)) to (L)+2->L w przeciwnym razie (L)+1->L
+Linia2=ROZKAZ pgm;
+Linia3=Argumenty 1;
+Linia4=
+Linia5=czyt wys wei il;
+Linia6=wyad wea;
+Linia7=czyt wys weja ode weak;
+Linia8=
+Linia9=JE¯ELI Z TO @ujemna  GDY NIE @dodatnia;
+Linia10=
+Linia11=@ujemna il dalej @dodatnia;
+Linia12=
+Linia13=@dodatnia wyl wea KONIEC;
+Linia14=
+[roz3]
+Linie=7
+Linia1=//(ak)-((L))->ak
+Linia2=ROZKAZ roz3;
+Linia3=Argumenty 0;
+Linia4=czyt wys wei il;
+Linia5=wyl wea;
+Linia6=czyt wys weja ode weak; 
+Linia7=
+[saw]
+Linie=10
+Linia1=//SAW (L)+(AD)-> L
+Linia2=ROZKAZ saw  ;
+Linia3=Argumenty 1;
+Linia4=czyt wys wei il;
+Linia5=wyl sa wes weja przep weak il;
+Linia6=wyl sa weja ode weak;
+Linia7=wys weja dod weak;
+Linia8=wyad as weja dod weak;
+Linia9=wyak sa wel wea;
+Linia10=
