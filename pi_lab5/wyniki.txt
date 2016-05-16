@@ -1,0 +1,589 @@
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane1.dat
+  0 : 25
+  1 : 63
+  2 : 88
+  3 : 95
+  4 : 85
+  5 : 57
+  6 : 7
+  7 : 23
+  8 : 3
+  9 : 38
+ 10 : 93
+ 11 : 50
+ 12 : 76
+ 13 : 37
+ 14 : 18
+ 15 : 53
+ 16 : 87
+ 17 : 8
+ 18 : 35
+ 19 : 24
+ 20 : 51
+ 21 : 86
+ 22 : 81
+ 23 : 19
+ 24 : 16
+ 25 : 1
+ 26 : 30
+ 27 : 24
+ 28 : 15
+ 29 : 66
+ 30 : 37
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.1.dat
+	Klucz 3, 9 dostêpów do pamiêci. Wynik 8
+	Klucz 85, 5 dostêpów do pamiêci. Wynik 4
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 3, 9 dostêpów do pamiêci. Wynik 8
+	Klucz 3, 9 dostêpów do pamiêci. Wynik 8
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 3, 9 dostêpów do pamiêci. Wynik 8
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 51, 21 dostêpów do pamiêci. Wynik 20
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 85, 5 dostêpów do pamiêci. Wynik 4
+Wyszukiwano 15 elementów. Min = 5, Max = 21, œrednio 12,4666666666667
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.2.dat
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 51, 21 dostêpów do pamiêci. Wynik 20
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+	Klucz 85, 5 dostêpów do pamiêci. Wynik 4
+	Klucz 25, 1 dostêpów do pamiêci. Wynik 0
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 51, 21 dostêpów do pamiêci. Wynik 20
+	Klucz 25, 1 dostêpów do pamiêci. Wynik 0
+	Klucz 51, 21 dostêpów do pamiêci. Wynik 20
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+Wyszukiwano 15 elementów. Min = 1, Max = 25, œrednio 15,9333333333333
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.3.dat
+	Klucz 51, 21 dostêpów do pamiêci. Wynik 20
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 25, 1 dostêpów do pamiêci. Wynik 0
+	Klucz 25, 1 dostêpów do pamiêci. Wynik 0
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+	Klucz 3, 9 dostêpów do pamiêci. Wynik 8
+	Klucz 85, 5 dostêpów do pamiêci. Wynik 4
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+	Klucz 76, 13 dostêpów do pamiêci. Wynik 12
+	Klucz 16, 25 dostêpów do pamiêci. Wynik 24
+	Klucz 87, 17 dostêpów do pamiêci. Wynik 16
+Wyszukiwano 15 elementów. Min = 1, Max = 25, œrednio 14,0666666666667
+
+Tablica zosta³a posortowana
+
+  0 : 1
+  1 : 3
+  2 : 7
+  3 : 8
+  4 : 15
+  5 : 16
+  6 : 18
+  7 : 19
+  8 : 23
+  9 : 24
+ 10 : 24
+ 11 : 25
+ 12 : 30
+ 13 : 35
+ 14 : 37
+ 15 : 37
+ 16 : 38
+ 17 : 50
+ 18 : 51
+ 19 : 53
+ 20 : 57
+ 21 : 63
+ 22 : 66
+ 23 : 76
+ 24 : 81
+ 25 : 85
+ 26 : 86
+ 27 : 87
+ 28 : 88
+ 29 : 93
+ 30 : 95
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.1.dat
+	Klucz 3, 2 dostêpów do pamiêci. Wynik 1
+	Klucz 85, 26 dostêpów do pamiêci. Wynik 25
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 3, 2 dostêpów do pamiêci. Wynik 1
+	Klucz 3, 2 dostêpów do pamiêci. Wynik 1
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 3, 2 dostêpów do pamiêci. Wynik 1
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 19 dostêpów do pamiêci. Wynik 18
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 85, 26 dostêpów do pamiêci. Wynik 25
+Wyszukiwano 15 elementów. Min = 2, Max = 28, œrednio 19,1333333333333
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.2.dat
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 19 dostêpów do pamiêci. Wynik 18
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+	Klucz 85, 26 dostêpów do pamiêci. Wynik 25
+	Klucz 25, 12 dostêpów do pamiêci. Wynik 11
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 19 dostêpów do pamiêci. Wynik 18
+	Klucz 25, 12 dostêpów do pamiêci. Wynik 11
+	Klucz 51, 19 dostêpów do pamiêci. Wynik 18
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+Wyszukiwano 15 elementów. Min = 6, Max = 28, œrednio 17
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.3.dat
+	Klucz 51, 19 dostêpów do pamiêci. Wynik 18
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 25, 12 dostêpów do pamiêci. Wynik 11
+	Klucz 25, 12 dostêpów do pamiêci. Wynik 11
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+	Klucz 3, 2 dostêpów do pamiêci. Wynik 1
+	Klucz 85, 26 dostêpów do pamiêci. Wynik 25
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 24 dostêpów do pamiêci. Wynik 23
+	Klucz 16, 6 dostêpów do pamiêci. Wynik 5
+	Klucz 87, 28 dostêpów do pamiêci. Wynik 27
+Wyszukiwano 15 elementów. Min = 2, Max = 28, œrednio 19,6666666666667
+
+
+Wyszukiwanie dychotomiczne
+
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.1.dat
+	Klucz 3, 4 dostêpów do pamiêci. Wynik 1
+	Klucz 85, 4 dostêpów do pamiêci. Wynik 25
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 3, 4 dostêpów do pamiêci. Wynik 1
+	Klucz 3, 4 dostêpów do pamiêci. Wynik 1
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 3, 4 dostêpów do pamiêci. Wynik 1
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 5 dostêpów do pamiêci. Wynik 18
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 85, 4 dostêpów do pamiêci. Wynik 25
+Wyszukiwano 15 elementów. Min = 2, Max = 5, œrednio 3,26666666666667
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.2.dat
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 5 dostêpów do pamiêci. Wynik 18
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+	Klucz 85, 4 dostêpów do pamiêci. Wynik 25
+	Klucz 25, 3 dostêpów do pamiêci. Wynik 11
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 51, 5 dostêpów do pamiêci. Wynik 18
+	Klucz 25, 3 dostêpów do pamiêci. Wynik 11
+	Klucz 51, 5 dostêpów do pamiêci. Wynik 18
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+Wyszukiwano 15 elementów. Min = 2, Max = 5, œrednio 3,46666666666667
+
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane1.3.dat
+	Klucz 51, 5 dostêpów do pamiêci. Wynik 18
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 25, 3 dostêpów do pamiêci. Wynik 11
+	Klucz 25, 3 dostêpów do pamiêci. Wynik 11
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+	Klucz 3, 4 dostêpów do pamiêci. Wynik 1
+	Klucz 85, 4 dostêpów do pamiêci. Wynik 25
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+	Klucz 76, 2 dostêpów do pamiêci. Wynik 23
+	Klucz 16, 4 dostêpów do pamiêci. Wynik 5
+	Klucz 87, 3 dostêpów do pamiêci. Wynik 27
+Wyszukiwano 15 elementów. Min = 2, Max = 5, œrednio 3,2
+
+
+Wstawiono klucz 40
+Wstawiono klucz 20
+Wstawiono klucz 60
+Wstawiono klucz 30
+Wstawiono klucz 10
+Wstawiono klucz 70
+Wstawiono klucz 50
+Wstawiono klucz 15
+Wstawiono klucz 5
+Wstawiono klucz 35
+Wstawiono klucz 25
+Wstawiono klucz 55
+Wstawiono klucz 45
+Wstawiono klucz 75
+Wstawiono klucz 65
+Wstawiono klucz 3
+Wstawiono klucz 7
+Wstawiono klucz 13
+Wstawiono klucz 17
+Wstawiono klucz 27
+Wstawiono klucz 23
+Wstawiono klucz 37
+Wstawiono klucz 33
+Wstawiono klucz 47
+Wstawiono klucz 43
+Wstawiono klucz 57
+Wstawiono klucz 53
+Wstawiono klucz 67
+Wstawiono klucz 63
+Wstawiono klucz 77
+Wstawiono klucz 73
+
+drzewo dok³adnnie wywa¿one
+
+				3
+			5
+				7
+		10
+				13
+			15
+				17
+	20
+				23
+			25
+				27
+		30
+				33
+			35
+				37
+40
+				43
+			45
+				47
+		50
+				53
+			55
+				57
+	60
+				63
+			65
+				67
+		70
+				73
+			75
+				77
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.1.dat
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 7, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 1, Max = 5, œrednio 4,06666666666667
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.2.dat
+	Klucz 7, 5 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 7, 5 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 1, Max = 5, œrednio 3,86666666666667
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.3.dat
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 7, 5 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 7, 5 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+	Klucz 10, 3 dostêpów do pamiêci.
+	Klucz 40, 1 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 1, Max = 5, œrednio 3,66666666666667
+
+Drzewo niewywa¿one
+
+Usuniêto klucz 40
+Wstawiono klucz 40
+Usuniêto klucz 60
+Wstawiono klucz 60
+Usuniêto klucz 57
+Wstawiono klucz 57
+Usuniêto klucz 37
+Wstawiono klucz 37
+Usuniêto klucz 75
+Wstawiono klucz 75
+Usuniêto klucz 73
+Wstawiono klucz 73
+Usuniêto klucz 70
+Wstawiono klucz 70
+Usuniêto klucz 47
+Wstawiono klucz 47
+Usuniêto klucz 30
+Wstawiono klucz 30
+Usuniêto klucz 10
+Wstawiono klucz 10
+Usuniêto klucz 20
+Wstawiono klucz 20
+Usuniêto klucz 17
+Wstawiono klucz 17
+Usuniêto klucz 15
+Wstawiono klucz 15
+				3
+			5
+		7
+			10
+	13
+							15
+						17
+					20
+				23
+			25
+		27
+				30
+			33
+35
+						37
+					40
+				43
+			45
+				47
+		50
+			53
+	55
+						57
+					60
+				63
+			65
+		67
+						70
+					73
+				75
+			77
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.1.dat
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 7, 3 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 3, Max = 6, œrednio 4,6
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.2.dat
+	Klucz 7, 3 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 45, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 7, 3 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 3, Max = 6, œrednio 4,46666666666667
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane4.3.dat
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 7, 3 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 7, 3 dostêpów do pamiêci.
+	Klucz 23, 5 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 5, 4 dostêpów do pamiêci.
+	Klucz 43, 5 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+	Klucz 10, 4 dostêpów do pamiêci.
+	Klucz 40, 6 dostêpów do pamiêci.
+Wyszukiwano 15 elementów. Min = 3, Max = 6, œrednio 4,6
+
+
+ZAD 6
+Rozmiar B-drzewa,  M = 2
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,60666666666667. Dostêpy do dysku: Min = 1, Max = 4, œrednio 3,65333333333333
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,26666666666667. Dostêpy do dysku: Min = 1, Max = 4, œrednio 3,6
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,66666666666667. Dostêpy do dysku: Min = 1, Max = 4, œrednio 3,67333333333333
+
+Rozmiar B-drzewa,  M = 3
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,04666666666667. Dostêpy do dysku: Min = 2, Max = 4, œrednio 3,78
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,17333333333333. Dostêpy do dysku: Min = 2, Max = 4, œrednio 3,78
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 10, œrednio 7,24666666666667. Dostêpy do dysku: Min = 2, Max = 4, œrednio 3,78666666666667
+
+Rozmiar B-drzewa,  M = 4
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 10, œrednio 7,36. Dostêpy do dysku: Min = 1, Max = 3, œrednio 2,85333333333333
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 10, œrednio 7,27333333333333. Dostêpy do dysku: Min = 1, Max = 3, œrednio 2,84
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 10, œrednio 7,58666666666667. Dostêpy do dysku: Min = 1, Max = 3, œrednio 2,9
+
+Rozmiar B-drzewa,  M = 8
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,34666666666667. Dostêpy do dysku: Min = 2, Max = 3, œrednio 2,93333333333333
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 4, Max = 9, œrednio 7,32. Dostêpy do dysku: Min = 2, Max = 3, œrednio 2,91333333333333
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,4. Dostêpy do dysku: Min = 2, Max = 3, œrednio 2,95333333333333
+
+Rozmiar B-drzewa,  M = 16
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,20666666666667. Dostêpy do dysku: Min = 1, Max = 2, œrednio 1,94666666666667
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 4, Max = 9, œrednio 7. Dostêpy do dysku: Min = 1, Max = 2, œrednio 1,96666666666667
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,33333333333333. Dostêpy do dysku: Min = 1, Max = 2, œrednio 1,97333333333333
+
+Rozmiar B-drzewa,  M = 32
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,31333333333333. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,26666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,02666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+  
+Rozmiar B-drzewa,  M = 64
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,16666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,26. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,26666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+
+B* DRZEWA
+Rozmiar B*-drzewa,  M = 2
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 11, œrednio 8,18. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 11, œrednio 8,08. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 11, œrednio 8,22666666666667. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+
+Rozmiar B*-drzewa,  M = 3
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 10, œrednio 8. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 10, œrednio 8,1. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 10, œrednio 8,14. Dostêpy do dysku: Min = 4, Max = 4, œrednio 4
+
+Rozmiar B*-drzewa,  M = 4
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 9, œrednio 7,84. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 9, œrednio 7,74666666666667. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 6, Max = 9, œrednio 7,74666666666667. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+
+Rozmiar B*-drzewa,  M = 8
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 10, œrednio 7,49333333333333. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 10, œrednio 7,47333333333333. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 10, œrednio 7,49333333333333. Dostêpy do dysku: Min = 3, Max = 3, œrednio 3
+
+Rozmiar B*-drzewa,  M = 16
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 9, œrednio 7,23333333333333. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 9, œrednio 7,28. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 5, Max = 9, œrednio 7,21333333333333. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+
+Rozmiar B*-drzewa,  M = 32
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,02. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,16. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 3, Max = 9, œrednio 7,16. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+
+
+Rozmiar B*-drzewa,  M = 64
+Wstawiono dane z pliku C:\Users\Student\Desktop\pi_lab5\dane2.dat
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.1.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,24666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.2.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,1. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
+Wyszukiwanie danych z pliku C:\Users\Student\Desktop\pi_lab5\szukane2.3.dat	
+Wyszukiwano 150 elementów. Dostêpy do pamiêci: Min = 2, Max = 9, œrednio 7,20666666666667. Dostêpy do dysku: Min = 2, Max = 2, œrednio 2
